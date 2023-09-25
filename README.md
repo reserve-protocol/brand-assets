@@ -24,7 +24,6 @@
 
 ## RESERVE
 
-
 <p align="center">
   <img width="300" src="assets/Reserve-wordmark-black.png">
 </p>
@@ -38,4 +37,8 @@
   <img width="450" src="assets/Reserve-wordmark-cream.png">
 </p>
 
+## Reserve Quilt
 
+<p align="center">
+  <img width="300" src="assets/Reserve-Quilt.png">
+</p>
